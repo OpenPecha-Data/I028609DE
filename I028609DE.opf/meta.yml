@@ -1,0 +1,16 @@
+id: I028609DE
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:56:37.832391
+last_modified: 2023-02-09 14:56:37.832498
+source_metadata:
+  title: 'RK: Gaṅgottaraparipṛcchā'
+  language: en
+bases:
+  A444:
+    base_file: A444.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

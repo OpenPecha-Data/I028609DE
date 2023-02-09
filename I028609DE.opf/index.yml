@@ -1,0 +1,19 @@
+id: 204ecd50d61144a4a0da887d2280a72a
+annotation_type: index
+revision: '00001'
+annotations:
+  b50f2e600cd549048de670b88ff781c1:
+    base: A444.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 57
+    - title: Preface
+      span:
+        start: 58
+        end: 10021
+    - title: Colophon
+      span:
+        start: 10022
+        end: 10334
